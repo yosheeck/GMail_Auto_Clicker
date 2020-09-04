@@ -1,3 +1,6 @@
+# WARNING: Abandoned, archived
+This project is obsolete. GMail changed multiple times and this project doesn't makes sense anymore.
+
 # GMail Auto Clicker
 
 It's a simple auto-clicker for GMail "Check mail now" button.
